@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Abyssinica+SIL&display=swap');
+body{
+    background-color: rgb(239, 223, 215);
+    font-family: 'Abyssinica SIL', serif;
+}
+h1{
+    color: rgba(100, 24, 24, 0.973);
+}
+input{
+    display: block;
+    width: 30%;
+}
+button{
+    margin: 1rem;
+    border-radius: .3rem;
+    border-color: rgb(229, 182, 129);
+}
