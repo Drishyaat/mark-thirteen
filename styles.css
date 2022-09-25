@@ -9,9 +9,11 @@ h1{
 input{
     display: block;
     width: 30%;
+    height: 30px;
 }
 button{
     margin: 1rem;
+    padding: .4rem;
     border-radius: .3rem;
     border-color: rgb(229, 182, 129);
 }
