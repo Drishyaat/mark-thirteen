@@ -10,3 +10,10 @@ A web app made with HTML, CSS and JavaScript to check if your birthday is a pali
 * We check palindrome for all date formats
 * If its a palindrome we display output else we find the next palindrome date
 * function `getNextPalindromeDate` finds the next date and calculates the number of days missed
+ ### Technologies used:
+* HTML
+* CSS
+* JavaScript
+### Live link of project 
+[Here](https://mark-thirteen.netlify.app/)
+
